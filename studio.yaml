@@ -1,0 +1,33 @@
+name: skynet-studio
+displayName: SkyNet
+picture: "studio.png"
+
+company: StackSpot
+
+about: Make it work, make it beautiful, make it fast.
+
+technologies: [ ".NET", "C#", "Jaeger", "AWS SQS", "Docker", "Prometheus", "Splunk" ]
+whoWeAre: |
+ Ajudar desenvolvedores a entregar software com velocidade e confiança, para que o negócio consiga entregar mais funcionalidades para seus clientes.
+ 
+creators:
+  - displayName: Onofre Juvencio
+    profileURL: "https://github.com/onofrejuvencio"
+    provider: github
+    jobRole: Software Engineer
+    picture: "https://avatars.githubusercontent.com/u/97553744?v=4"
+
+  - displayName: Ricardo Pires
+    profileURL: "https://github.com/ricardojosezup"
+    provider: github
+    jobRole: Software Engineer
+    picture: "https://avatars.githubusercontent.com/u/62444338?v=4"
+
+  - displayName: Maurício Gomes(Alcides)
+    jobRole: Tech Lead
+    profileURL: "https://github.com/alcidesmauricio"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/89221304?v=4"
+
+stacks:
+  - location: "https://github.com/stack-spot/skynet-dotnet-catalog"
