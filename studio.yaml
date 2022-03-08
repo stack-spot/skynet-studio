@@ -6,7 +6,7 @@ company: StackSpot
 
 about: Make it work, make it beautiful, make it fast.
 
-technologies: [ ".NET", "C#", "Jaeger", "AWS SQS", "Docker", "Prometheus", "Splunk" ]
+technologies: [ ".NET", "C#", "Jaeger", "AWS SQS", "Docker", "Prometheus", "Splunk", "Lambda", "Typescript", "API Gateway", "DynamoDB", "EventBridge" ]
 whoWeAre: |
  Ajudar desenvolvedores a entregar software com velocidade e confiança, para que o negócio consiga entregar mais funcionalidades para seus clientes.
  
@@ -29,5 +29,19 @@ creators:
     provider: github
     picture: "https://avatars.githubusercontent.com/u/89221304?v=4"
 
+  - displayName: Samuel Henrique Ferreira
+    jobRole: Tech Lead
+    profileURL: "https://github.com/samuelhenriquezup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/71265980?v=4"
+
+  - displayName: Lucas Santos de Almeida
+    jobRole: Software Engineer
+    profileURL: "https://github.com/lucas-almeida-zup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/90719625?v=4"
+
 stacks:
   - location: "https://github.com/stack-spot/skynet-dotnet-stack"
+  - location: "https://github.com/stack-spot/skynet-typescript-api-stack"
+  - location: "https://github.com/stack-spot/skynet-lambda-handler-stack"
