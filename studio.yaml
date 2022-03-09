@@ -6,7 +6,7 @@ company: StackSpot
 
 about: Stacks que provêm confiança e velocidade no seu desenvolvimento
 
-technologies: [ ".NET", "C#", "Jaeger", "AWS SQS", "Docker", "Prometheus", "Splunk", "Lambda", "Typescript", "API Gateway", "DynamoDB", "EventBridge" ]
+technologies: [".NET", "C#", "Api", "OpenAPI", "Splunk", "Prometheus", "Jaeger", "AWS SQS", "AWS DynamoDB", "Docker", "AWS ECS/Fargate"]
 whoWeAre: |
  O estúdio SkyNet nasceu com a missão de ajudar desenvolvedores a entregar software com velocidade e confiança, para que o negócio consiga entregar mais funcionalidades para seus clientes. Assim, nossos produtos são focados em absorver grande parte da carga cognitiva do código necessário para desenvolver desde uma simples aplicação, como também grandes sistemas complexos.
 |
@@ -47,5 +47,3 @@ creators:
 
 stacks:
   - location: "https://github.com/stack-spot/skynet-dotnet-stack"
-  - location: "https://github.com/stack-spot/skynet-typescript-api-stack"
-  - location: "https://github.com/stack-spot/skynet-lambda-handler-stack"
