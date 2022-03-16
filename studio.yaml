@@ -8,9 +8,9 @@ about: Stacks que provêm confiança e velocidade no seu desenvolvimento
 
 technologies: [".NET", "C#", "Api", "OpenAPI", "Splunk", "Prometheus", "Jaeger", "AWS SQS", "AWS DynamoDB", "Docker", "AWS ECS/Fargate"]
 whoWeAre: |
- O estúdio SkyNet nasceu com a missão de ajudar desenvolvedores a entregar software com velocidade e confiança, para que o negócio consiga entregar mais funcionalidades para seus clientes. Assim, nossos produtos são focados em absorver grande parte da carga cognitiva do código necessário para desenvolver desde uma simples aplicação, como também grandes sistemas complexos.
- Somos desenvolvedores apaixonados por tecnologia, estamos sempre buscando inovar em nossas soluções, utilizando as melhores práticas de desenvolvimento sempre focando nos nossos valores: confiança, qualidade e velocidade.
- Fomos o primeiro estúdio a lançar produtos utilizando a tecnologia da StackSpot.
+ Somos desenvolvedores apaixonados por tecnologia e estamos sempre buscando inovar em nossas soluções. Para isso, utilizamos as melhores práticas de desenvolvimento focadas em nossos valores: confiança, qualidade e velocidade.  
+ O estúdio SkyNet é o primeiro estúdio a lançar produtos usando a tecnologia da StackSpot. Ele nasceu com a missão de ajudar desenvolvedores a entregar software com velocidade e confiança, para que o seu negócio consiga entregar mais funcionalidades para os clientes.  
+ Os produtos do estúdio são focados em absorver grande parte da carga cognitiva do código necessário para desenvolver desde uma simples aplicação até grandes sistemas complexos.  
  
 creators:
   - displayName: Onofre Juvencio
