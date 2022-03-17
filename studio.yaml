@@ -43,30 +43,5 @@ creators:
     provider: github
     picture: "https://avatars.githubusercontent.com/u/90719625?v=4"
 
-  - displayName: Marcelo Shinye
-    jobRole: Tech Lead
-    profileURL: "https://github.com/marceloshinyezup"
-    provider: github
-    picture: "https://avatars.githubusercontent.com/u/70662752?v=4"
-
-  - displayName: Lucas Alves Martins
-    jobRole: Data Engineer
-    profileURL: "https://github.com/lucasmartinszup"
-    provider: github
-    picture: "https://avatars.githubusercontent.com/u/65420820?v=4"
-
-  - displayName: Jefferson da Silva Cândido
-    jobRole: Software Engineer
-    profileURL: "https://github.com/jeffersoncandidozup"
-    provider: github
-    picture: "https://avatars.githubusercontent.com/u/62310177?v=4"
-
-  - displayName: Leandro Queiroz
-    jobRole: Software Engineer
-    profileURL: "https://github.com/leandroqo"
-    provider: github
-    picture: "https://avatars.githubusercontent.com/u/8366062?v=4"
-
 stacks:
   - location: "https://github.com/stack-spot/skynet-dotnet-stack"
-  - location: "https://github.com/stack-spot/skynet-analytics-stack"
