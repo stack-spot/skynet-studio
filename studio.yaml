@@ -39,4 +39,4 @@ creators:
 
 stacks:
   - location: "https://github.com/stack-spot/skynet-dotnet-stack"
-  - location: "https://github.com/stack-spot/skynet-dotnet-worker-stack"
+  # - location: "https://github.com/stack-spot/skynet-dotnet-worker-stack"
